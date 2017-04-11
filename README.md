@@ -1,2 +1,2 @@
 # der-test.github.io
-<a href="der-test.github.io />
+http://der-test.github.io
