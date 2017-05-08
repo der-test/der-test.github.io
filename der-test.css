@@ -1,7 +1,19 @@
 body {
   padding-top: 50px;
 }
-.starter-template {
-  padding: 40px 15px;
+.content:first-of-type {
+  padding: 40px 15px 0 15px;
   text-align: center;
+}
+.content {
+  padding: 15px;
+  text-align: center;
+}
+ul {
+    width: 50%;
+    margin: auto;
+	text-align: left;
+}
+ul a:after {
+		content: " | "
 }
