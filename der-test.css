@@ -1,13 +1,19 @@
 body {
   padding-top: 50px;
 }
-.content:first-of-type {
+.intro {
   padding: 40px 15px 0 15px;
   text-align: center;
 }
-.content {
+.intro {
   padding: 15px;
   text-align: center;
+}
+.content {
+  text-align: center;
+}
+.lead {
+	margin: 0;
 }
 ul {
     width: 50%;
@@ -15,5 +21,8 @@ ul {
 	text-align: left;
 }
 ul.links a:after {
+		content: " | "
+}
+.content a:after {
 		content: " | "
 }
