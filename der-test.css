@@ -10,13 +10,13 @@ body {
   text-align: center;
 }
 .content {
-  text-align: center;
+  /*text-align: center;*/
 }
 .lead {
 	margin: 0;
 }
 ul {
-    width: 50%;
+/*    width: 50%;*/
     margin: auto;
 	text-align: left;
 }
