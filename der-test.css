@@ -21,9 +21,12 @@ ul {
     margin: auto;
 	text-align: left;
 }
-ul.links a:after {
+p.links a:after {
 		content: " | "
 }
 .content a:after {
 		content: " | "
+}
+p.li:before {
+	content: "• ";
 }
