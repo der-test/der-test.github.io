@@ -16,11 +16,6 @@ body {
 .lead {
 	margin: 0;
 }
-ul {
-/*    width: 50%;*/
-    margin: auto;
-	text-align: left;
-}
 p.links a:after {
 		content: " | "
 }
