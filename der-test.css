@@ -20,7 +20,8 @@ p.links a:after {
 		content: " | "
 }
 .content a:after {
-		content: " | "
+		/* content: " | "; */
+    content: " • ";
 }
 p.li:before {
 	content: "• ";
