@@ -3,26 +3,26 @@ body {
   padding-bottom: 50px;
 }
 .intro {
-  padding: 40px 15px 0 15px;
-  text-align: center;
-}
-.intro {
   padding: 15px;
   text-align: center;
-}
-.content {
-  /*text-align: center;*/
 }
 .lead {
 	margin: 0;
 }
-p.links a:after {
-		content: " | "
-}
-.content a:after {
-		/* content: " | "; */
+/* Dot afer each link in block with the class links*/
+.links a:after {
     content: " • ";
 }
 p.li:before {
 	content: "• ";
+}
+h3 {
+    text-transform: uppercase;
+}
+
+/* Indent p. Do no indent the first line of p*/
+/* text-indent only works fo the first line */
+p {
+    text-indent:-0.6em;
+    margin-left:0.6em;
 }
