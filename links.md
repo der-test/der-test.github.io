@@ -6,7 +6,7 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <meta name="description" content="der-test on github">
         <meta name="author" content="Tim Estermann">
-        <title>der-test.github.io</title>
+        <!-<title>der-test.github.io</title>-->
         <!-- FAVICONS etc -->
         <link rel="icon" href="./images/favicon.ico">
         <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-icon-57x57.png">
@@ -36,9 +36,9 @@
         <link rel="stylesheet" href="der-test.css">
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
     </head>
     <body>
         <!-- Navigation -->
@@ -61,25 +61,16 @@
                 <div class="links">
                     <!-- LINKS -->
                     <p class="li"><a href="https://eflausch.wordpress.com">eFlausch</a>Raspberry Pi- und Elektronik-Blog</p>
-                    <p class="li"><a href="https://thingiverse.com/der_test">Thingiverse</a>3D--Modelle</p>
+                    <p class="li"><a href="https://thingiverse.com/der_test">Thingiverse</a>3D-Modelle</p>
                     <p class="li"><a href="https://docs.mattermost.com/developer/localization.html">Mattermost Translation</a>Maintainer</p>
                     <!-- /LINKS -->
                 </div>
             </div> <!-- /.content-->
         </div><!-- /.container -->
 
-
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Bootstrap core JS -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
     </body>
 </html>
-
-<!-- LINKS-EXAMPLE
-<h3 id="example">Example</h3>
-<ul class="links">
-<p class="li"><a href=""></a></p>
-</ul>
-/LINKS-EXAMPLE-->
