@@ -6,7 +6,7 @@
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <meta name="description" content="der-test on github">
         <meta name="author" content="Tim Estermann">
-        <!-<title>der-test.github.io</title>-->
+        <!-- <title>der-test.github.io</title> -->
         <!-- FAVICONS etc -->
         <link rel="icon" href="./images/favicon.ico">
         <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-icon-57x57.png">
