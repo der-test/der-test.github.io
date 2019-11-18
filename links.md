@@ -58,13 +58,7 @@
         </nav>
         <!-- /Navigation -->
         <div class="container">
-            <div class="intro">
-                <h1>der-test's collected links</h1>
-                <p class="lead">Stuff I've been collecting for years. May be useful. Or not.
-                    <br>See <a href="https://github.com/der-test"> my github</a> for more stuff.
-            </div>
             <div class="content">
-                <h2 id="links">Links</h2>
                 <div class="links">
                     <!-- LINKS -->
                     <p class="li"><a href="https://eflausch.wordpress.com">eFlausch</a>Raspberry Pi- und Elektronik-Blog</p>
