@@ -61,7 +61,7 @@
                 <div class="links">
                     <!-- LINKS -->
                     <p class="li"><a href="https://eflausch.wordpress.com">eFlausch</a>Raspberry Pi- und Elektronik-Blog</p>
-                    <p class="li"><a href="https://thingiverse.com/der_test">Thinkgiverse</a>3D--Modelle</p>
+                    <p class="li"><a href="https://thingiverse.com/der_test">Thingiverse</a>3D--Modelle</p>
                     <p class="li"><a href="https://docs.mattermost.com/developer/localization.html">Mattermost Translation</a>Maintainer</p>
                     <!-- /LINKS -->
                 </div>
